@@ -1,8 +1,8 @@
 # js-xml-timestamp-parsing
 
-returns parse
+returns parse<br>
 
-.since for sorting
-.dst time since
-.gen base36 of timestamp
+.since for sorting<br>
+.dst time since<br>
+.gen base36 of timestamp<br>
 .re xml link url
